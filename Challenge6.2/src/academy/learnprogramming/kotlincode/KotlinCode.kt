@@ -1,3 +1,5 @@
+@file:JvmName("KotlinStuff")
+
 package academy.learnprogramming.kotlincode
 
 fun sayHelloToJava(name: String) {
